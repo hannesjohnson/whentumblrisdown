@@ -235,8 +235,7 @@ echo "you won't be able to get your regular dose of inspirational quotes.";
 			</a></span>
 		</div>
 
-		<div id="footer">			
-			Share it for the lulz: 
+		<div id="footer">						 
 			<div class="fb-like" data-href="http://whentumblrisdown.com/" data-layout="button_count" data-action="like" data-width="90" data-show-faces="false" data-share="true" data-font="arial" ref="wtid-front-page-footer"></div>
 
 			<a href="https://twitter.com/share" class="twitter-share-button" data-url="http://whentumblrisdown.com/" data-via="tumblrisdown" data-related="HannesJohnson,LoroSocial" data-hashtags="tumblr">Tweet</a>
