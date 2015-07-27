@@ -1,7 +1,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#" xml:lang="en" lang="en">
 
-	<!-- hey what's up my name is hannes and tumblr *might* be down - http://twitter.com/officialstation -->
+	<!-- hey what's up my name is hannes and tumblr *might* be down - http://twitter.com/HannesJohnson -->
 
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
@@ -13,8 +13,21 @@
 		<meta property="og:title" content="When Tumblr Is Down"/>
 		<meta property="og:url" content="http://whentumblrisdown.com/"/>
 		<meta property="fb:admins" content="336300002"/>
+		<meta property="fb:profile_id" content="336300002"/>
 		<meta property="fb:app_id" content="273504892693836"/>
 		<meta property="og:type" content="website"/>
+		<meta property="og:see_also" content="http://www.loromedia.com/"/>
+		<meta property="og:see_also" content="http://www.hannesjohnson.com/"/>
+		<meta property="og:see_also" content="http://hannes.agnarsson.com/"/>
+		<meta property="og:see_also" content="http://iam.officialstation.com/"/>
+		<meta property="og:see_also" content="https://twitter.com/HannesJohnson"/>
+		<meta property="article:author" content="https://www.facebook.com/hannes.a.johnson"/>
+		<meta property="article:section" content="Technology"/>
+		<meta property="article:tag" content="Tumblr"/>
+		<meta property="article:tag" content="Humor"/>
+		<meta property="article:tag" content="Social Media"/>
+		<meta name="twitter:creator" content="@HannesJohnson"/>
+		<meta name="twitter:card" content="summary_large_image"/>		
 
 		<link href="/whentumblrisdown.css" rel="stylesheet" type="text/css"/>
 		<title>When Tumblr is down... What happens? Why is Tumblr down? What are you missing?</title>
@@ -35,36 +48,18 @@
 
 		</script>
 		
-		<script type="text/javascript">
-		(function(d){
-		  var f = d.getElementsByTagName('SCRIPT')[0], p = d.createElement('SCRIPT');
-		  p.type = 'text/javascript';
-		  p.async = true;
-		  p.src = '//assets.pinterest.com/js/pinit.js';
-		  f.parentNode.insertBefore(p, f);
-		}(document));
-		</script>
 	</head>
 
 	<body>
 		<div id="fb-root"></div>
 		<script>(function(d, s, id) {
 		  var js, fjs = d.getElementsByTagName(s)[0];
-		  if (d.getElementById(id)) {return;}
+		  if (d.getElementById(id)) return;
 		  js = d.createElement(s); js.id = id;
-		  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=273504892693836";
+		  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4&appId=273504892693836";
 		  fjs.parentNode.insertBefore(js, fjs);
 		}(document, 'script', 'facebook-jssdk'));</script>
 		
-		<div id="share-top">
-			Share it for the lulz: 
-			<div class="fb-like" data-href="http://whentumblrisdown.com/" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-font="arial" ref="wtid-front-page-top"></div>
-
-			<a href="https://twitter.com/share" class="twitter-share-button" data-url="http://whentumblrisdown.com/" data-count="horizontal" data-via="tumblrisdown" data-related="officialstation:The guy that made WhenTumblrIsDown.com - say hi, he's friendly :)">Tweet</a><script type="text/javascript" src="//platform.twitter.com/widgets.js"></script>
-			
-			<a data-pin-config="none" href="//pinterest.com/pin/create/button/?url=http%3A%2F%2Fwhentumblrisdown.com%2F&media=http%3A%2F%2Fwhentumblrisdown.com%2Fwtid-1500x1500.gif&description=What%20happens%20when%20Tumblr%20is%20down%3F%20What%20should%20you%20do%3F%20What%20are%20you%20missing%3F%20Why%20is%20%23Tumblr%20down%3F%20whentumblrisdown.com" data-pin-do="buttonPin" ><img src="//assets.pinterest.com/images/pidgets/pin_it_button.png" /></a>
-		</div>
-
 		<div id="container">
 			<span id="first"><a href="http://whentumblrisdown.com" title="Click for another one... or just refresh">When Tumblr is down, </a></span>
 			<span id="second"><a href="http://whentumblrisdown.com" title="Click for another one... or just refresh">
@@ -240,41 +235,13 @@ echo "you won't be able to get your regular dose of inspirational quotes.";
 			</a></span>
 		</div>
 
-		<div id="sponsoredby">
-			<p>Advertisement</p>
-			<!-- <a href="http://www.doncomodo.com/" title="Sponsored by: Don Comodo - Awesome t-shirts."  onclick="_gaq.push(['_trackEvent', 'Ad', 'Click', 'Don Comodo - Banner']);"><img src="/don-comodo-banner-200x88.png" alt="Don Comodo t-shirts" width="200" height="88"/></a> -->
-			<!-- <a href="http://www.yaymarketing.com/" title="Sponsored by: Yay! Marketing! - A fun blog about marketing" onclick="_gaq.push(['_trackEvent', 'Ad', 'Click', 'Yay Marketing - Banner']);"><img src="/yay-marketing-banner-200x92.png" alt="Marketing is fun" width="200" height="92"/></a> -->
-			<script type="text/javascript"><!--
-			google_ad_client = "ca-pub-2926416593344295";
-			/* WhenTumblrIsDown.com - bottom left */
-			google_ad_slot = "4233016230";
-			google_ad_width = 234;
-			google_ad_height = 60;
-			//-->
-			</script>
-			<script type="text/javascript"
-			src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-			</script>
-		</div>
-
 		<div id="footer">			
+			Share it for the lulz: 
+			<div class="fb-like" data-href="http://whentumblrisdown.com/" data-layout="button_count" data-action="like" data-width="90" data-show-faces="false" data-share="true" data-font="arial" ref="wtid-front-page-footer"></div>
 
-			<!-- AddThis Button BEGIN -->
-			<script type="text/javascript">
-				var addthis_offset_top = -20;
-				var addthis_offset_left = -60;
-			</script>
-			<div class="addthis_toolbox addthis_default_style">
-			<a href="http://www.addthis.com/bookmark.php?v=250&pub=officialstation" class="addthis_button_compact">Share</a>
-			<span class="addthis_separator">|</span>
-			<a class="addthis_button_preferred_1"></a>
-			<a class="addthis_button_preferred_2"></a>
-			<a class="addthis_button_facebook"></a>
-			<a class="addthis_button_twitter"></a>
-			<a class="addthis_button_google_plusone"></a>
-			</div>
-			<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js?pub=officialstation"></script>
-			<!-- AddThis Button END -->
+			<a href="https://twitter.com/share" class="twitter-share-button" data-url="http://whentumblrisdown.com/" data-via="tumblrisdown" data-related="HannesJohnson,LoroSocial" data-hashtags="tumblr">Tweet</a>
+			<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+			
 			&nbsp; &bull; <a href="http://hannes.agnarsson.com/" title="My place on the interwebs - see other things I've created">Hannes made this</a> &bull; <a href="/contact/" title="Send me an email with suggestions, feedback, whatever...">contact</a> &bull; <a href="/about/" title="Find more about this site and who's behind this silliness">about</a>
 		</div>
 
