@@ -1,0 +1,184 @@
+body {
+    background-color: #1c1c1c;
+    color: #d5d5d5;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+a {
+    text-decoration: none; 
+    color: #0080bb;
+}
+
+a:visited {
+    color: #1155aa;
+}
+
+a:hover {
+    color: #33b3ee;
+}
+
+a:active {
+    color: #77a2dd;
+}
+
+input, textarea {
+    -moz-border-radius-bottomleft:4px;
+    -moz-border-radius-bottomright:4px;
+    -moz-border-radius-topleft:4px;
+    -moz-border-radius-topright:4px;
+    background: #FFFFFF;
+    border: 1px solid #c0c0c0;
+    color: #000000;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 5px;
+}
+
+            
+div#container {
+    width: 800px;
+    position: absolute;
+    top: 50%;
+    left: 35%;
+    margin: -200px 0 0 -225px;
+    font-size: 20px;
+    text-shadow: #000 1px 1px 2px;
+}
+
+div#about {
+    width: 800px;
+    position: absolute;
+    top: 15%;
+    left: 35%;
+    margin: -100px 0 0 -225px;
+    font-size: 20px;
+    text-shadow: #000 1px 1px 2px;
+}
+
+div#contact {
+    width: 800px;
+    position: absolute;
+    top: 25%;
+    left: 35%;
+    margin: -150px 0 0 -225px;
+    font-size: 20px;
+    text-shadow: #000 1px 1px 2px;
+}
+
+div#donation-cancel {
+    width: 800px;
+    position: absolute;
+    top: 25%;
+    left: 35%;
+    margin: -150px 0 0 -225px;
+    font-size: 20px;
+    text-shadow: #000 1px 1px 2px;
+}
+
+div#donation-success {
+    width: 800px;
+    position: absolute;
+    top: 25%;
+    left: 35%;
+    margin: -150px 0 0 -225px;
+    font-size: 20px;
+    text-shadow: #000 1px 1px 2px;
+}
+
+#share-top {
+	margin-top: 10px;
+	font-weight: bold;
+}
+
+#share-top .fb-like { 
+	margin-left: 5px;
+	padding-right: 5px; 
+}
+
+#share-top .twitter-share-button { 
+	margin-bottom: -4px; 
+	padding-right: 5px;
+}
+
+#share-top .pin-it-button {
+	margin-bottom: -4px !important;
+}
+
+#first a {
+    font-size: 34px;
+    font-weight: bold;
+    color: #00c0ff;
+    /* text-transform: uppercase; */
+}
+
+#first a:hover {
+    font-size: 34px;
+    font-weight: bold;
+    color: #44e4ff;
+    /* text-transform: uppercase; */
+}
+
+#second a {
+    font-size: 34px;
+    font-weight: bold;
+    color: #d5d5d5;
+    /* text-transform: uppercase; */
+}
+
+#second a:hover {
+    font-size: 34px;
+    font-weight: bold;
+    color: #f9f9f9;
+    /* text-transform: uppercase; */
+}
+
+div#ads {
+    position: absolute;
+    bottom: 40px;
+    right: 10px;
+}
+
+div#sponsoredby {
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+}
+
+div#sponsoredby p {
+    color: #00c0ff;
+    font-size: 12px;
+    margin-bottom: 5px;
+	font-weight: bold;
+}
+
+div#sponsoredby img{
+    border:0;
+    margin:0;
+}
+
+div#footer {
+    /* width: 800px; */
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+}
+
+#footer a {
+    text-transform: lowercase;
+    color: #d5d5d5;
+    font-weight: bold;
+}   
+
+.addthis_default_style {
+    float: left;
+}
+
+#footer .fblike {
+    float: left;
+    padding-right: 10px;
+}
+
+#footer .fb-like, #footer .twitter-share-button {
+	float: left;
+	padding-right: 5px;
+}
