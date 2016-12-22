@@ -234,11 +234,16 @@ echo "you won't be able to get your regular dose of inspirational quotes.";
 ?>
 			</a></span>
 		</div>
+		
+		<div id="sponsoredby">
+			<p>Sponsored by</p>
+			<a href="https://www.doncomodo.com/?utm_source=whentumblrisdown.com&utm_campaign=wtid-sponsorship&utm_medium=banner" title="Sponsored by: Don Comodo – Awesome T-shirts."  onclick="_gaq.push(['_trackEvent', 'Ad', 'Click', 'Don Comodo - Banner']);"><img src="/don-comodo-banner-200x88.png" alt="Don Comodo T-Shirts" width="200" height="88"/></a>
+		</div>
 
 		<div id="footer">						 
 			<div class="fb-like" data-href="http://whentumblrisdown.com/" data-layout="button_count" data-action="like" data-width="90" data-show-faces="false" data-share="true" data-font="arial" ref="wtid-front-page-footer"></div>
 
-			<a href="https://twitter.com/share" class="twitter-share-button" data-url="http://whentumblrisdown.com/" data-via="tumblrisdown" data-related="HannesJohnson,LoroSocial" data-hashtags="tumblr">Tweet</a>
+			<a href="https://twitter.com/share" class="twitter-share-button" data-url="http://whentumblrisdown.com/" data-via="tumblrisdown" data-related="HannesJohnson,DonComodo,LoroMedia" data-hashtags="tumblr">Tweet</a>
 			<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
 			
 			&nbsp; &bull; <a href="http://hannes.agnarsson.com/" title="My place on the interwebs - see other things I've created">Hannes made this</a> &bull; <a href="/contact/" title="Send me an email with suggestions, feedback, whatever...">contact</a> &bull; <a href="/about/" title="Find more about this site and who's behind this silliness">about</a>
