@@ -237,7 +237,7 @@ echo "you won't be able to get your regular dose of inspirational quotes.";
 		
 		<div id="sponsoredby">
 			<p>Sponsored by</p>
-			<a href="https://www.doncomodo.com/?utm_source=whentumblrisdown.com&utm_campaign=wtid-sponsorship&utm_medium=banner" title="Sponsored by: Don Comodo – Awesome T-shirts."  onclick="_gaq.push(['_trackEvent', 'Ad', 'Click', 'Don Comodo - Banner']);"><img src="/don-comodo-banner-200x88.png" alt="Don Comodo T-Shirts" width="200" height="88"/></a>
+			<a href="https://www.doncomodo.com/?utm_source=whentumblrisdown.com&utm_campaign=wtid-sponsorship&utm_medium=banner" title="Sponsored by: Don Comodo – Awesome T-shirts."  onclick="_gaq.push(['_trackEvent', 'Ad', 'Click', 'Don Comodo - Banner']);" target="_blank"><img src="/don-comodo-banner-200x88.png" alt="Don Comodo T-Shirts" width="200" height="88"/></a>
 		</div>
 
 		<div id="footer">						 
